@@ -22,3 +22,9 @@ The grading criteria will be as follows:
 * [2] Adds interesting features (beyond the scope of the assignment)
 
 20 points total
+
+This Project contains the answers to the questions above. Telling everything from my name
+to my github profile. My favorite game is in there too. Some fun things that I want to add
+is some art based around each answer. Like just display a quick picture of these things.
+I hope we will learn how to add these in the furute. I am very excited for the course and
+can't wait to learn even more about this and the game engines.
